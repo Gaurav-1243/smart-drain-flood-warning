@@ -168,7 +168,3 @@ Do not upload real Wi-Fi passwords or ThingSpeak Write API Keys to a public repo
 ## 👨‍💻 Project Type
 
 **Internet of Things (IoT) | Embedded Systems | Environmental Monitoring**
-
-## 📄 License
-
-Choose a suitable open-source license before distributing or reusing this project. If no license is specified, reuse permissions are not automatically granted.
